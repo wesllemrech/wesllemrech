@@ -1,18 +1,52 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/wesllemrech">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllemrech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
+<img max-widht="800" src="https://cdn.discordapp.com/attachments/996181582593392700/1201026453060468776/Welcome.png?ex=65c8520c&is=65b5dd0c&hm=be12cfd57af6d3fa4fe1b8ea0b4c3c15aaf722bf16505ec7a5cf4d3f835812f5&"/>
+</div>
+
+<h3 align="center">👨🏻‍💻  About Me</h3>
+
+###
+
+<img align="right" height="273" src="https://i.pinimg.com/originals/7f/e2/69/7fe2693ea3c7577e45c4e0ef4a414e91.gif"  />
+
+###
+
+<p align="left">Hi devs! 👋<br><br>- 🔭 Network Operations Center Intern<br><br>- 📚 Systems Analysis and Development student and Web Development technician<br><br>-🌱Currently learning Python | PHP | | React.JS | Next.Js | Laravel | React Native | GO <br><br>- ⚡ My hobbies are studying, programming, gaming, and drawing! Always looking to evolve <br><br>-❤️ Passionate about programming, art, music, geek culture, anime and traveling!</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+
+###
+
+ <div align="center">
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesllemrech&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<div align="center">
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block">
+  
 </div>
- 
-<br>
  
 ### Meus outros canais para contato!
  
